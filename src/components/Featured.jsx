@@ -20,16 +20,16 @@ function Featured() {
               />
             </div>
             <div className="buttons  flex gap-5 ">
-              <button className="rounded-full border-2 text-xl p-2 px-6 mt-10">
+              <button className="rounded-full text-wrap border-2 text-xl p-2 px-6 mt-10">
                 AUDIT
               </button>
-              <button className="rounded-full border-2 text-xl p-2 px-6 mt-10">
+              <button className="rounded-full text-wrap border-2 text-xl p-2 px-6 mt-10">
                 COPYWRITING
               </button>
-              <button className="rounded-full border-2 text-xl p-2 px-6 mt-10">
+              <button className="rounded-full text-wrap border-2 text-xl p-2 px-6 mt-10">
                 SALES DECK
               </button>
-              <button className="rounded-full border-2 text-xl p-2 px-6 mt-10">
+              <button className="rounded-full text-wrap border-2 text-xl p-2 px-6 mt-10">
                 SLIDES DESIGN
               </button>
             </div>
@@ -43,10 +43,10 @@ function Featured() {
               />
             </div>
             <div className="buttons  flex gap-5 ">
-              <button className="rounded-full border-2 text-xl p-2 px-6 mt-10">
+              <button className="rounded-full border-2 text-wrap text-xl p-2 px-6 mt-10">
                 AGENCY
               </button>
-              <button className="rounded-full border-2 text-xl p-2 px-6 mt-10">
+              <button className="rounded-full text-wrap border-2 text-xl p-2 px-6 mt-10">
                 COMPANY REPRESENTATION
               </button>
             </div>
